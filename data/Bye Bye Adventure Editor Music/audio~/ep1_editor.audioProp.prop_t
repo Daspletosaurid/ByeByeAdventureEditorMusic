@@ -1,0 +1,9 @@
+key parentAudio patch_editor_base
+keys addgroups
+	ep1_music_duck_group
+end
+float gain 0
+uint32 polyphony 1
+keys samples
+	ep1_editor
+end

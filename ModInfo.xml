@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<mod description="Mutes the adventure editor music, without requiring the user to mute all music in the Audio settings." displayName="Bye Bye Adventure Editor Music" dllsBuild="$SPOREMOD_DLLS_BUILD" hasCustomInstaller="false" installerSystemVersion="1.0.1.2" isExperimental="$SPOREMOD_EXPERIMENTAL" unique="ByeByeAdventureEditorMusic">
+<mod description="A simple mod that mutes the adventure editor music, without requiring the user to mute all music in the Audio settings." displayName="Bye Bye Adventure Editor Music" dllsBuild="$SPOREMOD_DLLS_BUILD" githubUrl="https://github.com/Daspletosaurid/SporeByebyeAdventureEditorMusic" hasCustomInstaller="false" installerSystemVersion="1.0.1.2" isExperimental="$SPOREMOD_EXPERIMENTAL" unique="ByeByeAdventureEditorMusic" websiteUrl="https://github.com/Daspletosaurid/SporeByebyeAdventureEditorMusic">
   <prerequisite game="GalacticAdventures">Bye_Bye_Adventure_Editor_Music.package</prerequisite>
 </mod>
